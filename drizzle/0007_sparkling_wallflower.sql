@@ -1,0 +1,1 @@
+ALTER TABLE `inbound_provider_events` ADD `lease_token` text;

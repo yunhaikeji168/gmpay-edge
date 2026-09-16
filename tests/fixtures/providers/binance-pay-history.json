@@ -1,0 +1,12 @@
+{
+	"code": "000000",
+	"success": true,
+	"data": [
+		{
+			"fundsDetail": [{ "amount": "12.5", "currency": "USDT" }],
+			"receiverInfo": { "binanceId": "123456" },
+			"transactionId": "pay-1",
+			"transactionTime": 1700000000000
+		}
+	]
+}

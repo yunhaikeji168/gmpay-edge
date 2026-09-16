@@ -1,0 +1,62 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1784545697590,
+      "tag": "0000_fancy_madame_web",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1784629117662,
+      "tag": "0001_evm_scan_config",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1784634241832,
+      "tag": "0002_immediate_release_mode",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1784640000000,
+      "tag": "0003_telegram_unified_subscriptions",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1786192550774,
+      "tag": "0004_redundant_puck",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1786192957133,
+      "tag": "0005_flippant_dexter_bennett",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "6",
+      "when": 1787282057541,
+      "tag": "0006_tearful_magdalene",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "6",
+      "when": 1788171525707,
+      "tag": "0007_sparkling_wallflower",
+      "breakpoints": true
+    }
+  ]
+}
